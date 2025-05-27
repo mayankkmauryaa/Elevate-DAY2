@@ -33,7 +33,7 @@ This is a simple and interactive To-Do List web app built using **HTML, CSS, and
 ## 🌐 Live Demo
 
 You can try the app live at:  
-https://mayankkmauryaa.github.io/Elevate-DAY2/
+🔗 [Live Website](https://mayankkmauryaa.github.io/Elevate-DAY2/)
 
 ## 📂 Folder Structure
 
@@ -57,7 +57,8 @@ git clone https://github.com/mayankkmauryaa/Elevate-DAY2.git
 2. Open in VS Code and use Live Server, or open index.html directly.
 
 📬 Contact
-Built by Mayank Maurya
+> Built by Mayank Maurya
+>
 📧 hpmayankmaurya@gmail.com
 
 
